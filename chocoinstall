@@ -14,6 +14,7 @@ choco install firefox -y
 choco install adobereader -y
 choco install vlc -y
 choco install treesize free
+choco install 1password
 
 
 #choco install 7zip 
